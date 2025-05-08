@@ -1,4 +1,4 @@
 ---
-title: Welkom bij de website voor de RPG Malpertuus! 
+title: Home
 ---
 <p>Dit is een test tekst, om te zien of deze setup werkt. Test. </p>
